@@ -8,3 +8,5 @@ Go to https://discord.com/developers/applications to create your bot, make sure 
 Replace "TOKEN" with the string of your own bot token.
 
 I host my bot on https://client.pylexnodes.net/, which I followed the instructions of https://www.youtube.com/watch?v=jzA_jvE9Rzo switching Node.js tutorial for Python, everything else is the same.
+
+Procfile and runtime are not necessary, I originally wrote this code to be hosted on Heroku but they got rid of their free hosting, if you want to host on Heroku you will need those files.
